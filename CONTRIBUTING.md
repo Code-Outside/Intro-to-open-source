@@ -1,1 +1,9 @@
-# just contribute
+## Hello Guys Welcome to Code Outside
+
+Here in Code Outside we help you to contribute in open source.
+
+In this repositories you will find the steps how to contribute in open source.
+
+From 0 to your **First Contribution** to your dream projects.
+
+So, Lets get stated by going to [This File](https://github.com/Code-Outside/Intro-to-open-source/blob/main/README.md) and reading about open source. 🆓
