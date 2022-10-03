@@ -6,6 +6,12 @@
 
 - If you want to see how to format readme file [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## What is git.
+
+## What is Github.
+
+## what is open Source.
+
 
 ## Connect us on 🔗
 
