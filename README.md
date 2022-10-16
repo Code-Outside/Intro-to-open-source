@@ -23,11 +23,13 @@ Git is open Source. It is mostly used by people who want to make the projects wi
 
 ## What is Github.
 
-write here
+It is a web-based Git repository. This hosting service has cloud-based storage. GitHub offers all distributed version control and source code management functionality of Git while adding its own features. It makes it easier to collaborate using Git.
 
-## what is open Source.
+Additionally, GitHub repositories are open to the public. Developers worldwide can interact and contribute to one another’s code, modify or improve it, making GitHub a networking site for web professionals. The process of interaction and contribution is also called social coding.
 
-write here
+- Extras
+
+GitHub is a product of Microsoft. It is free to use. It is mostly used by people who want to showcase their projects.
 
 
 ## Connect us on 🔗
