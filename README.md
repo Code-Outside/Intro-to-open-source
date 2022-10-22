@@ -32,6 +32,26 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 GitHub is a product of Microsoft. It is free to use. It is mostly used by people who want to showcase their projects.
 
 
+
+**4.** Make your changes to the source code.
+
+**5.** Stage your changes:
+
+```bash
+git add "<files_you_have_changed>"
+```
+_or_
+
+```bash
+git add .
+```
+
+**6.** Commit your changes:
+
+```bash
+git commit -m "<your_commit_message>"
+```
+
 ## Connect us on 🔗
 
 [![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCxsMWEhnzCy85UDsxir66Yw)
