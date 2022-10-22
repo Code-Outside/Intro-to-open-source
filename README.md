@@ -31,6 +31,21 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 
 GitHub is a product of Microsoft. It is free to use. It is mostly used by people who want to showcase their projects.
 
+## ⭐ HOW TO MAKE A PULL REQUEST:
+
+**1.** Start by making a Fork of the **Code-Outside** Fork symbol at the top right corner.
+
+**2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
+
+```bash
+git clone https://github.com/<your-github-username>/Code-Outside
+```
+
+**3.** Navigate to the newly created Code-Outside project directory:
+
+```bash
+cd Code-Outside
+```
 
 
 **4.** Make your changes to the source code.
