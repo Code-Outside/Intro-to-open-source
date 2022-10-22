@@ -67,6 +67,22 @@ git add .
 git commit -m "<your_commit_message>"
 ```
 
+**7.** Push your local commits to the remote repository:
+
+```bash
+git push origin YourBranchName
+```
+
+**8.** Create branch
+
+**9.** Create a Pull Request
+
+**10.** **Congratulations!** You've made your first contribution to **Code-Outside** 🙌🏼
+
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the Code Outside project forward.**
+
+---
+
 ## Connect us on 🔗
 
 [![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCxsMWEhnzCy85UDsxir66Yw)
